@@ -1,0 +1,199 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: William Oliveira
+title: QA Lead | Test Automation Engineer | SDET | CTAL-TA | DevOps | Freelancer | Mentor
+email: williamcarlos00@gmail.com
+phone: "+351933109063"
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  willcoliveira
+linkedin_username: wcoliveira
+
+# About Section
+about_title: ABOUT ME
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello there, I'm William Oliveira or Will. Welcome to my page \o
+
+  I'm Software Engineer specialized in Quality Assurance and Test Automation with 9+ years’ experience. Certified Tester in Advanced Level (CTAL-TA) by the International Software Testing Qualifications Board in partnership with the brazilian institute of software testing (2018).
+  
+  A professional with a track record of providing functional/manual and test automation services. High degree of curiosity around the subject matter, details oriented, hands-on Tester and keen to ensure good quality and results. 
+  
+  Excellent team player and lead with interpersonal skills to build relationships with teammates and other teams.
+  
+  Strong experience in:
+    - Python, JavaScript, Swift and a bit of Java.
+    - CI/CD: Jenkins, AWS, Gitlab, Docker, Travis and S3.
+    - Frameworks: Cypress, WebdriverIO, Selenium WebDriver and Robot Framework (Developing libraries in Python from Scratch for web, mobile and API testing).
+    - Mobile: Appium, UIAutomator and Espresso (Android) and XCTest (iOS).
+    - Unit: React Test Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest and PyUnit.
+    - Cucumber, SauceLabs, BrowserStack, Postman and Gherkin scripts.
+
+content:
+  - title: EXPERIENCE
+    layout: list
+    content:
+      - layout: top-middle
+        title: ATS4IT - NIKE (Belgium) 
+        link: https://www.agap2-it.pt/en/ats/
+        sub_title: Senior QA/SDET
+        caption: April 2021 - Present
+        quote: >
+          Working at NIKE ELC Belgium
+        description: |
+          Senior QA Engineer working for one of ATS4IT customers based in Belgium.
+          
+          First SDET specialist providing and sharing quality first mindset and moving to Shift-Left Environment between different teams based in US, India and Belgium.
+          
+          Responsible for design and implementing the Quality Process into the whole development areas.
+          
+          Responsible for developing Python based Automation E2E project for API, UI, SAP, ERP and warehouses Logistic Center applications using Robot Framework, Python and Jenkins. 
+          
+          Supporting, defining and creating a QA Roadmap for the quality process and quality engineers and Business Analysts (40 Quality Analysts, 20 Test Automation Engineers, 4 different teams around the globe).
+        
+      - layout: top-middle  
+        title: Capitalise (UK)
+        link: https://www.capitalise.com
+        sub_title: Lead QA/SDET
+        caption: September 2020 - March 2021
+        quote: >
+          First QA Specialist providing and sharing quality first mindset and moving to Shift-Left Environment between a team of 10 developers and Product Managers.
+        description: |
+          Responsible for design and implementing the Quality Process into the whole development areas leading Manual and Automation perspectivities.
+          
+          Responsible for developing Javascript based automation E2E projects for API and UI applications using Cypress and Postman in a CI based on Docker and Azure DevOps.
+          
+          Facilitating the implementation and growth of unit level validation for the Frontend team using React Testing Library.
+          
+          Responsible for developing an Azure Template to reuse the microservices tests between all the pipelines with a common code.
+          
+          Defining and creating all the test metrics, test plans and release process for the current platform and new features. Also, elaborating the QA Roadmap for the quality process inside the whole company.
+
+      - layout: top-middle     
+        title: Mindera (Portugal)
+        link: https://www.mindera.com
+        sub_title: Senior QA/SDET
+        caption: April 2019 - August 2020
+        quote: >
+          Senior QA Engineer working for one of Mindera's customers, YOOX NET-A-PORTER (YNAP) based in London.
+        description: |
+          Responsible for all stages of the test process. Creating and maintaining functional and unit tests Javascript based using Cypress, WebdriverIO, Postman, Jest and Mocha in a Continuous Integration Environment with Docker, Jenkins and Saucelabs.
+          
+          Created a bug taxonomy (JIRA) to increase the test coverage after the first analysis when joined in this project (TestRail).
+          
+          Tech QA interviewer - Analysing new candidates on technical call interview stage. Evaluating their skills with QA Process, Agile Methodologies, Coding Skills and DevOps knowledge.
+          
+          QA Mentor analysing different projects and preparing new QA staff that are joining at the company.
+        
+      - layout: top-middle 
+        title: Daitan Group (Brazil)
+        link: https://www.daitan.com
+        sub_title: Lead QA/SDET
+        caption: September 2018 - March 2019
+        quote: >
+          QA Tech Lead providing technical leadership for 5 Engineers on one of Daitan’s customers based in US.
+        description: |
+          Responsible for developing automation projects from scratch Python based integrating with Robot Framework for IOS and Android, Security, API and Web.
+          
+          Writing and developing test cases using UIAutomator, XCtest, Appium, Selenium, Postman, Docker and Jenkins in order to delivery a complete CI/CD Environment.
+          
+          Providing technical and mentoring programs to interns including sharing knowledge on features, tools, processes, agile methodologies and best practices to design test beds, develop test plans, test cases and propose test strategies according to system requirements.
+
+      - layout: top-middle 
+        title: Samsung (Brazil)
+        link: https://www.sidia.com/
+        sub_title: Software Developer Engineer in Test
+        caption: September 2017 - August 2018
+        quote: >
+          Senior QA providing technical leadership and quality approach for releases in LATAM. 
+        description: |
+          Sharing knowledge on features, tools, processes (Agile) and troubleshooting skills as Logcat and Wireshark debug. Also, manage all daily team’s requests (Resources allocation).
+          
+          Responsible for developing tests with Python using Selenium, Appium and Robot Framework with Cucumber and Gherkin scripts following BDD practices.
+          
+          Configuration of pipelines in Jenkins in order to have each deployed version on each level of tests in the applications tested by our automated tests.
+
+      - layout: top-middle 
+        title: Daitan Group (Brazil)
+        link: https://www.daitan.com
+        sub_title: QA/SDET
+        caption: September 2017 - August 2018
+        quote: >
+          QA Engineer working for one of Daitan’s customers based in US.
+        description: |
+          Testing and developing Python based test case automation using Robot Framework throughout Docker and Jenkins providing a full Continuous Integration Environment.
+          
+          Working on Agile Methodologies. Participating in Planning, Retrospectives and stand-ups daily closely with the other team’s members remotely.
+          
+          Reduce time-to-market by developing automated regression test suites ensuring product stability and reduced number of defect escapes.
+          
+          Testing and stressing in OLTs, ONTs of GPON and Active Ethernet models, Residential Gateway Services, IPTV (IGMP Multicast) Services, Network Systems, Network Routing and Data Services.
+
+      - layout: top-middle 
+        title: CPqD (Brazil)
+        link: https://www.cpqd.com.br/
+        sub_title: QA
+        caption: January 2013 - June 2016
+        quote: >
+          First full time position as QA and I had the chance to improve all of my skills, Love this company <3
+        description: |
+          Testing and developing Java based tests using Selenium, Junit and Jmeter.
+          
+          Writing test cases in Testlink and Bug tracking process on JIRA and Mantis.
+          
+          Elaborating documents of Detailed Requirements, according to Traditional methodologies of SDLC and STLC and working on Agile Methodologies later.
+
+      - layout: top-middle 
+        title: Algar Telecom (Brazil)
+        link: https://www.algartelecom.com.br/para-voce/
+        sub_title: QA Intern
+        caption: Abril 2012 - December 2012
+        quote: >
+          First QA intern position and I had the chance to learn what is Quality haha
+        description: |
+          Developing and Supporting tests using Python and Shell Scripts. Finding, reporting and retesting issues through JIRA.
+          
+          Manual Testing for Network services GPON, Active Ethernet, Gateway Services, IPTV (IGMP Multicast), SIP, MGCP and Megaco/H.248.
+
+  - title: ACADEMIC BACKGROUND
+    layout: list
+    content:
+      - layout: top-middle 
+        title: PUC-Campinas
+        caption: 2011 - 2015
+        sub_title: BSc Telecommunications Engineering
+
+      - layout: top-middle 
+        title: CESAR School
+        caption: 2017 - 2018
+        sub_title: Extension in Mobile Test Automation
+
+      - layout: top-middle 
+        title: ISTQB
+        caption: 2018 - 2018
+        sub_title: CTAL-TA - Validation 18-CTAL-TA-00646-BR
+
+# Footer
+footer_show_references: true
+#references_title: Some references from my teammates
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+github: [metadata]
