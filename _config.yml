@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: William Oliveira
-title: QA Lead | Test Automation Engineer | SDET | CTAL-TA | DevOps | Freelancer | Mentor
+title: QA Automation Engineer | SDET | Freelancer
 email: williamcarlos00@gmail.com
 phone: "+32493402196"
 
@@ -43,20 +43,23 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: ATS4IT - NIKE (Belgium) 
+        title: ATS4IT
         link: https://www.agap2-it.pt/en/ats/
-        sub_title: Senior QA/SDET
+        sub_title: Senior QA Automation Engineer - SDET
         caption: April 2021 - Present
         quote: >
-          Working at NIKE ELC Belgium
+          Client - Air Labs (New York, US)
+          Client - NIKE ELC (Laakdal, Belgium)
         description: |
-          Senior QA Engineer working for one of ATS4IT customers based in Belgium.
-          
-          First SDET specialist providing and sharing quality first mindset and moving to Shift-Left Environment between different teams based in US, India and Belgium.
-          
+          Senior QA Automation Engineer working for some of ATS4IT customers based in Belgium and US. 
+         
           Responsible for design and implementing the Quality Process into the whole development areas.
           
-          Responsible for developing Python based Automation E2E project for API, UI, SAP, ERP and warehouses Logistic Center applications using Robot Framework, Python and Jenkins. 
+          Responsible for developing TypeScript based Automation E2E project for Web (React and Redux) using Cypress, Docker and CircleCI.
+          
+          At Nike, I was the first SDET specialist providing and sharing quality first mindset and moving to Shift-Left Environment between different teams based in US, India and Belgium.
+                    
+          Responsible for developing Python based Automation E2E project for API, UI, SAP, ERP and warehouses Logistic Center applications using Robot Framework, Python and Jenkins.
           
           Supporting, defining and creating a QA Roadmap for the quality process and quality engineers and Business Analysts (40 Quality Analysts, 20 Test Automation Engineers, 4 different teams around the globe).
         
@@ -79,12 +82,12 @@ content:
           Defining and creating all the test metrics, test plans and release process for the current platform and new features. Also, elaborating the QA Roadmap for the quality process inside the whole company.
 
       - layout: top-middle     
-        title: Mindera (Portugal)
+        title: Mindera - Portugal
         link: https://www.mindera.com
-        sub_title: Senior QA/SDET
+        sub_title: Senior QA Automation Engineer - SDET
         caption: April 2019 - August 2020
         quote: >
-          Senior QA Engineer working for one of Mindera's customers, YOOX NET-A-PORTER (YNAP) based in London.
+          Senior QA Automation Engineer working for one of Mindera's customers, YOOX NET-A-PORTER (YNAP) based in London.
         description: |
           Responsible for all stages of the test process. Creating and maintaining functional and unit tests Javascript based using Cypress, WebdriverIO, Postman, Jest and Mocha in a Continuous Integration Environment with Docker, Jenkins and Saucelabs.
           
@@ -95,9 +98,9 @@ content:
           QA Mentor analysing different projects and preparing new QA staff that are joining at the company.
         
       - layout: top-middle 
-        title: Daitan Group (Brazil)
+        title: Daitan Group - Brazil
         link: https://www.daitan.com
-        sub_title: Lead QA/SDET
+        sub_title: Senior QA Automation Engineer - SDET
         caption: September 2018 - March 2019
         quote: >
           QA Tech Lead providing technical leadership for 5 Engineers on one of Daitan’s customers based in US.
@@ -109,9 +112,9 @@ content:
           Providing technical and mentoring programs to interns including sharing knowledge on features, tools, processes, agile methodologies and best practices to design test beds, develop test plans, test cases and propose test strategies according to system requirements.
 
       - layout: top-middle 
-        title: Samsung (Brazil)
+        title: Samsung - Brazil
         link: https://www.sidia.com/
-        sub_title: Software Developer Engineer in Test
+        sub_title: Senior QA Automation Engineer
         caption: September 2017 - August 2018
         quote: >
           Senior QA providing technical leadership and quality approach for releases in LATAM. 
@@ -123,7 +126,7 @@ content:
           Configuration of pipelines in Jenkins in order to have each deployed version on each level of tests in the applications tested by our automated tests.
 
       - layout: top-middle 
-        title: Daitan Group (Brazil)
+        title: Daitan Group - Brazil
         link: https://www.daitan.com
         sub_title: QA/SDET
         caption: September 2017 - August 2018
@@ -139,7 +142,7 @@ content:
           Testing and stressing in OLTs, ONTs of GPON and Active Ethernet models, Residential Gateway Services, IPTV (IGMP Multicast) Services, Network Systems, Network Routing and Data Services.
 
       - layout: top-middle 
-        title: CPqD (Brazil)
+        title: CPqD - Brazil
         link: https://www.cpqd.com.br/
         sub_title: QA
         caption: January 2013 - June 2016
@@ -153,7 +156,7 @@ content:
           Elaborating documents of Detailed Requirements, according to Traditional methodologies of SDLC and STLC and working on Agile Methodologies later.
 
       - layout: top-middle 
-        title: Algar Telecom (Brazil)
+        title: Algar Telecom - Brazil
         link: https://www.algartelecom.com.br/para-voce/
         sub_title: QA Intern
         caption: Abril 2012 - December 2012
