@@ -31,11 +31,11 @@ about_content: | # this will include new lines to allow paragraphs
   Excellent team player and lead with interpersonal skills to build relationships with teammates and other teams.
   
   Strong experience in:
-    - Python, JavaScript, Swift and a bit of Java.
-    - CI/CD: Jenkins, AWS, Gitlab, Docker, Travis and S3.
-    - Frameworks: Cypress, WebdriverIO, Selenium WebDriver and Robot Framework (Developing libraries in Python from Scratch for web, mobile and API testing).
-    - Mobile: Appium, UIAutomator and Espresso (Android) and XCTest (iOS).
-    - Unit: React Test Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest and PyUnit.
+    - Python, JavaScript/TypeScript and Swift.
+    - CI/CD: Jenkins, AWS, Gitlab, CircleCI, Docker, Travis and S3.
+    - Frameworks: Cypress, WebdriverIO, Selenium, Puppetter, TestCafe and Robot Framework.
+    - Mobile: Appium, Detox, UIAutomator and Espresso (Android) and XCTest,XCUITest (iOS).
+    - Unit: React Testing Library, Mocha, ChaiJs, Jest, Enzyme, JUnit, SuperTest and PyUnit.
     - Cucumber, SauceLabs, BrowserStack, Postman and Gherkin scripts.
 
 content:
@@ -48,8 +48,7 @@ content:
         sub_title: Senior QA Automation Engineer - SDET
         caption: April 2021 - Present
         quote: >
-          Client - Air Labs (New York, US)
-          Client - NIKE ELC (Laakdal, Belgium)
+          Clients - Air Labs (New York, US), NIKE ELC (Laakdal, Belgium).
         description: |
           Senior QA Automation Engineer working for some of ATS4IT customers based in Belgium and US. 
          
