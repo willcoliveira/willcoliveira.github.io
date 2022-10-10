@@ -42,11 +42,40 @@ content:
   - title: EXPERIENCE
     layout: list
     content:
+          - layout: top-middle
+        title: Freelancer - Contractor 
+        link: https://www.linkedin.com/in/wcoliveira/
+        sub_title: Senior QA Automation Engineer - SDET
+        caption: January 2019 - Present
+        quote: >
+          Developing QA and Automation Solutions and Long-term trusted relationships with clients around the globe. 
+          I help software engineering teams own their quality engineering practices. 
+          Available for consulting, training and technical writing.
+          Working on behalf of my own company as well as via platforms like turing.com, Upwork, Upper, Mission and remotely.works.
+        description: |
+          Introducing the Quality first Mindset for development's teams.
+          
+          Building Automation Solutions for Web, Mobile and APIs - JavaScript, TypeScript and Python based.
+          
+          Defining the QA Test Strategy, Estimation and implementation from scratch.
+          
+          Accelerating the continuous deploys achieving multiple releases a day.
+          
+          DevOps CI/CD configuration and Deploy strategy.
+          
+          Troubleshooting product issues from CX and reporting them to Engineering.
+          
+          Code reviews inside squads, sharing and implementing TDD and BDD approach.
+          
+          Defect management and Bug reporting templates.
+          
+          Mentoring QA and Automation professionals and helping them to come on board into the shift-left and shift-right quality mindset.
+          
       - layout: top-middle
         title: ATS4IT
         link: https://www.agap2-it.pt/en/ats/
         sub_title: Senior QA Automation Engineer - SDET
-        caption: April 2021 - Present
+        caption: April 2021 - October 2022
         quote: >
           Clients - Air Labs (New York, US), NIKE ELC (Laakdal, Belgium).
         description: |
